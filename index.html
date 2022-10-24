@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>ECSv8 | Character ID Randomizer</title>
+	<link rel="icon" type="image/x-icon" href="images/favicon.png">
+
+	<script src="js/index.js"></script>
+	<script src="js/ids.js"></script>
+
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+		}
+
+		body, html {
+			height: 100%;
+		}
+
+		.container {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100%;
+		}
+
+		.container p {
+			width: 400px;
+			padding: 15px;
+			background-color: #f1f1f1;
+		}
+	</style>
+
+</head>
+
+<body>
+	<div class="container">
+
+	<div>
+
+		<h1 style="text-align: center;" id="tempValue0"></h1>
+
+		<div class="container">
+			<button type="button" onclick="renderFreeID();">Generate</button>
+		</div>
+
+	</div>
+
+	</div>
+</body>
+
+</html>
