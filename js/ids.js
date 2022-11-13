@@ -2,8 +2,9 @@
 let registeredID = [
 	1, 2, 3, 4,						// Extra Slot Project (Mighty, Ray, Amy, Kai)
 	5,							// Extra Slot Shadow
-	15, 94,							// Star's characters
 	10, 11, 12,						// Lemons reserved IDs
+	15, 94,							// Star's characters
+	17,							// Blue's character
 	41,							// Benkoopa's Extra Slot El Macho
 	75,                                                     // Just Chris' reserved Extra Slot Extra Life ID
 	69,							// Wheel Chair
