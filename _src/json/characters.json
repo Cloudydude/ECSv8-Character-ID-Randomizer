@@ -1,0 +1,51 @@
+{
+	// --------------------------- //
+	// --- Released characters --- //
+	// --------------------------- //
+
+	// No one would ever released... Be the first!
+
+	/* --- Extra Slot Mighty --- */
+	"1":	{
+		"Name":			"Extra Slot Mighty",
+		"Author":		"iCloudius",
+		"Description":	"Revisit Angel Island as the everyone’s favorite hard-shelled hero, Mighty the Armadillo. Bash through badniks with the hammer drop, scale large walls with the wall jump, and explore Knuckles' routes in Angel Island act 2, Ice Cap, and Lava Reef act 2.",
+		"URL":			"https://gamebanana.com/mods/336038",
+		"ModVersion":	"v4.20"
+	},
+	/* --- Extra Slot Ray --- */
+	"2":	{
+		"Name":			"Extra Slot Ray",
+		"Author":		"Fabchaotix, CancerEdition, campbellsonic, iCloudius",
+		"Description":	"Extra Slot Ray is here. He can glide, he his an air boost, and you can use him as a hang glider when paired up with Sonic, Knuckles, or Mighty.",
+		"URL":			"https://gamebanana.com/mods/403766",
+		"ModVersion":	"v1.0"
+	},
+
+	
+	// --------------------------- //
+	// --- Reserved characters --- //
+	// --------------------------- //
+
+	"3":	{ "ReservedBy":	"iCloudius" },
+	"4":	{ "ReservedBy":	"iCloudius" },
+
+	"5":	{ "ReservedBy":	"Extra Slot Shadow" },
+
+	"10":	{ "ReservedBy":	"Dynamic Lemons#2965" },
+	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },
+	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },
+
+	"15":	{ "ReservedBy":	"Senpai-Star#5518" },
+	"94":	{ "ReservedBy":	"Senpai-Star#5518" },
+
+	"17":	{ "ReservedBy":	"BLUΞ#1103" },
+	"22":	{ "ReservedBy":	"CartoonAnimate22" },
+	"41":	{ "ReservedBy":	"Benkoopa#4456" },
+
+	"8":	{ "ReservedBy":	"Just Chris#0720" },
+	"75":	{ "ReservedBy":	"Just Chris#0720" },
+
+	"131":	{ "ReservedBy":	"SammyGoesHowdy#3411" },
+	"232":	{ "ReservedBy":	"SonicFan#4324" }
+}

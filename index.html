@@ -1,56 +1,48 @@
 <!DOCTYPE html>
+
+<!-- HTML -->
+
 <html>
 
+<!-- HEAD -->
+
 <head>
+	<!-- META -->
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, minimum-scale=0.8, maximum-scale=0.8, user-scalable=0" />
+
+	<!-- SCRIPTS & CSS-->
+	<script defer src="_src/jquery.js"></script>
+	<script defer src="_src/scripts.js"></script>
+	<link href="_src/styles.css" rel="stylesheet">
 	
+	<!-- SITE -->
 	<title>ECSv8 | Character ID Randomizer</title>
-	<link rel="icon" type="image/x-icon" href="images/favicon.png">
-
-	<script src="js/index.js"></script>
-	<script src="js/ids.js"></script>
-
-	<style>
-		* {
-			margin: 0;
-			padding: 0;
-		}
-
-		body, html {
-			height: 100%;
-		}
-
-		.container {
-			display: flex;
-			align-items: center;
-			justify-content: center;
-			height: 100%;
-		}
-
-		.container p {
-			width: 400px;
-			padding: 15px;
-			background-color: #f1f1f1;
-		}
-	</style>
-
+	<link rel="icon" type="image/x-icon" href="_src/img/favicon.png">
 </head>
 
+<!-- BODY -->
+
 <body>
-	<div class="container">
 
-	<div>
-
-		<h1 style="text-align: center;" id="tempValue0"></h1>
-
-		<div class="container">
-			<button type="button" onclick="renderFreeID();">Generate</button>
+	<!-- GENERATE BOX -->
+	<div class="generate--row">
+		<div class="generate--box">
+			<div class="generate--frame">
+				<div class="generate--title">GENERATE</div>
+				<div class="generate--frame2">
+					<div class="generate--detail">Random Character ID</div>
+					<div class="generate--title" id="number">PRESS BUTTON</div>
+				</div>
+				<div class="generate--frame3">
+					<a class="--revers button" id="random">RANDOM</a>
+					<a class="--revers button" style="display: none;" id="copy">COPY</a>
+					<div class="generate--detail" id="notify"></div>
+				</div>
+			</div>
 		</div>
-
 	</div>
-
-	</div>
+	
 </body>
 
 </html>
