@@ -18,26 +18,49 @@
 	
 	<!-- SITE -->
 	<title>ECSv8 | Character ID Randomizer</title>
-	<link rel="icon" type="image/x-icon" href="_src/img/favicon.png">
+	<link rel="icon" type="image/x-icon" href="src/img/favicon.png">
 </head>
 
 <!-- BODY -->
 
 <body>
 
-	<!-- GENERATE BOX -->
-	<div class="generate--row">
-		<div class="generate--box">
-			<div class="generate--frame">
-				<div class="generate--title">GENERATE</div>
-				<div class="generate--frame2">
-					<div class="generate--detail">Random Character ID</div>
-					<div class="generate--title" id="number">PRESS BUTTON</div>
+	<!-- PANELS -->
+	<div class="generate">
+		<div class="generate--row">
+
+			<!-- RANDOMIZER -->
+			<div class="generate--box">
+				<div class="generate--frame">
+					<div class="generate--title">GENERATE</div>
+					<div class="generate--frame2">
+						<div class="generate--detail">Random Character ID</div>
+						<div class="generate--title" id="number">PRESS BUTTON</div>
+					</div>
+					<div class="generate--frame3">
+						<a class="--revers button" id="random">RANDOM</a>
+						<a class="--revers button" style="display: none;" id="copy">COPY</a>
+						<div class="generate--detail" id="notify"></div>
+					</div>
 				</div>
-				<div class="generate--frame3">
-					<a class="--revers button" id="random">RANDOM</a>
-					<a class="--revers button" style="display: none;" id="copy">COPY</a>
-					<div class="generate--detail" id="notify"></div>
+			</div>
+
+			<!-- OPTIONS -->
+			<div class="generate--box">
+				<div class="generate--frame">
+					<div class="generate--title">OPTIONS</div>
+					<div class="generate--frame3">
+						<a class="button" id="option-showRegistered">INCL. RESERVED</a>
+						<a class="button" id="option-autoCopy">AUTO-COPY</a>
+					</div>
+				</div>
+			</div>
+
+			<!-- RESERVED IDS -->
+			<div class="generate--box">
+				<div class="generate--frame">
+					<div class="generate--title">RESERVED IDS</div>
+					<div class="reserved--row"></div>
 				</div>
 			</div>
 		</div>

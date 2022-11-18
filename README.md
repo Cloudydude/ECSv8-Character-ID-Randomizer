@@ -10,7 +10,7 @@ To add your characters' IDs to the registered list, you need to follow few simpl
 
 1. Register on github.com if you haven't already. Make a fork of this repository.
 2. Go to [https://fadeinside.github.io/ECSv8-Character-ID-Randomizer/](https://fadeinside.github.io/ECSv8-Character-ID-Randomizer/) and generate any ID.
-3. Open the file `_src/json/characters.json`.
+3. Open the file `src/json/characters.json`.
 4. Depending on your goals:
 	- If you want to register your character as a release and have it displayed on the site, then go to the `Released characters` comment and add the following code to the free space:
 

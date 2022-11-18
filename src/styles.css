@@ -38,16 +38,24 @@
 	flex: 1 1 320px;
 }
 
-.generate--row {
+.generate {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
-	align-items: center;
 	padding: 0px;
 	gap: 15px;
 	width: 100%;
 	height: 100%;
 	flex-wrap: wrap;
+	align-items: center;
+}
+
+.generate--row {
+	display: flex;
+	gap: 15px;
+	width: 100%;
+	flex-wrap: wrap;
+	flex-direction: row;
 }
 
 .generate--box {
@@ -56,6 +64,7 @@
 	align-items: flex-start;
 
 	width: 320px;
+	height: fit-content;
 	padding: 20px;
 	border-radius: 20px;
 
@@ -124,6 +133,40 @@
 	flex-direction: row;
 	align-items: center;
 	gap: 10px;
+}
+
+
+
+/* ---------------- */
+/* --- RESERVED --- */
+/* ---------------- */
+
+.reserved--row > .a.button {
+	flex: 1 1 100%;
+}
+
+.reserved {
+	width: 100%;
+	height: auto;
+
+	background: var(--color-1);
+	box-shadow: var(--shadow-box);
+
+	border-radius: 20px;
+	user-select: none;
+	overflow: hidden;
+}
+
+.reserved--row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 10px;
+	row-gap: 5px;
+	padding: 20px;
+	flex-wrap: wrap;
+	align-content: center;
 }
 
 
@@ -204,6 +247,14 @@ a.button {
 	transition: 0.1s;
 }
 
+a.--selected {
+	color: var(--color-4);
+	background: var(--color-accent);
+
+	cursor: pointer;
+	transform: translate(0px, -2px);
+}
+
 a.button:hover {
 	color: var(--color-4);
 	background: var(--color-accent);
@@ -215,6 +266,14 @@ a.button:hover {
 a.--revers {
 	color: var(--color-1);
 	background: var(--color-0);
+}
+
+a.--case {
+	text-transform: unset;
+}
+
+a.--noshadow {
+	box-shadow: none;
 }
 
 
@@ -254,21 +313,16 @@ html {
 /* ------------ */
 
 body {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-items: center;
-	
 	height: 100vh;
-
 	background: var(--color-2);
 	-webkit-tap-highlight-color: transparent;
 }
 
 @media (min-width: 769px) {
 	body {
-		width: calc(100vw - 50%);
-		margin: 0 auto;
+		width: calc(100vw - 30%);
+		margin: auto;
+		padding: 0;
 	}
 }
 
