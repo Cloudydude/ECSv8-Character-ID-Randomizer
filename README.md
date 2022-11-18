@@ -1,4 +1,4 @@
-<img src="images/favicon.png" align="right" />
+<img src="src/img/favicon.png" align="right" />
 
 # ECSv8 - Character ID Randomizer
 
