@@ -1,7 +1,7 @@
 let registeredID = [];
 
 $.ajax({
-	url: "./_src/json/characters.json",
+	url: "./src/json/characters.json",
 	dataType: "text",
 	success: function(text) {
 		var data = text.replace(/\\"|"(?:\\"|[^"])*"|(\/\/.*|\/\*[\s\S]*?\*\/)/g, (m, g) => g ? "" : m);
