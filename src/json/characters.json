@@ -21,6 +21,7 @@
 		"URL":			"https://gamebanana.com/mods/403766",
 		"ModVersion":	"v1.0"
 	},
+	/* --- Extra Slot Metal --- */
 	"30":	{
 		"Name":			"Extra Slot Ultimate Metal",
 		"Author":		"Telejaba#2162",
@@ -56,8 +57,4 @@
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }
 	"63":   { "ReservedBy": "mrmrchris#8979" }
-
-	"30":   { "ReservedBy": "" },
-	"31":   { "ReservedBy": "Telejaba#2162" },
-	"32":   { "ReservedBy": "Telejaba#2162" }
 }
