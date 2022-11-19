@@ -104,8 +104,8 @@ function randId(min, max, except) {
 
 function parseJson(text) {
 	var parse1 = text.replace(/\\"|"(?:\\"|[^"])*"|(\/\/.*|\/\*[\s\S]*?\*\/)/g, (m, g) => g ? "" : m);
-	var parse2 = parse1.replace(/}[^,]."|}[^,][^$]/g, "},\n\t");
-	var parse3 = parse2.replace(/\,(?=\s*?[\}\]])/g, "");
+	var parse2 = parse1.replace(/(}[,| |	]{1,})|(}(?!\n$))/g, "},");
+	var parse3 = parse2.replace(/\,(?=\s*?[\}\]])|((,$)|(,\s{1,}$))/g, "");
 
 	var json = $.parseJSON(parse3);
 	console.log(json)
