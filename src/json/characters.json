@@ -28,7 +28,7 @@
 		"Description":	"Metal no longer needs to be Sonic because he realized himself as a person, and became an extra slot.",
 		"ModVersion":	"Demo 2",
 		"URL":			"https://gamebanana.com/wips/70293"
- },
+	},
 
 	
 	// --------------------------- //
@@ -46,21 +46,21 @@
 	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },
 	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },
 
-	"15":	{ "ReservedBy":	"Senpai-Star#5518" }, // Lunarre
-	"94":	{ "ReservedBy":	"Senpai-Star#5518" }, // Kirby
+	"15":	{ "ReservedBy":	"Senpai-Star#5518" },	// Lunarre
+	"94":	{ "ReservedBy":	"Senpai-Star#5518" },	// Kirby
 
-	"17":	{ "ReservedBy":	"BLUΞ#1103" }, // Kit
-	"21":	{ "ReservedBy":	"BLUΞ#1103" }, // Sash Lilac The Dragon
-	"22":	{ "ReservedBy":	"CartoonAnimate22" }, // CA22 Sonic
-	"41":	{ "ReservedBy":	"Benkoopa#4456" }, // El Macho
-        "85":   { "ReservedBy": "plushnoob#3444" }, //laveslime's mario
-	"8":	{ "ReservedBy":	"Just Chris#0720" }, //metal knuckles
-	"75":	{ "ReservedBy":	"Just Chris#0720" }, //extra life
+	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
+	"21":	{ "ReservedBy":	"BLUΞ#1103" },			// Sash Lilac The Dragon
+	"22":	{ "ReservedBy":	"CartoonAnimate22" },	// CA22 Sonic
+	"41":	{ "ReservedBy":	"Benkoopa#4456" },		// El Macho
+	"85":   { "ReservedBy": "plushnoob#3444" },		// laveslime's mario
+	"8":	{ "ReservedBy":	"Just Chris#0720" },	// metal knuckles
+	"75":	{ "ReservedBy":	"Just Chris#0720" },	// extra life
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" },
-	"63":   { "ReservedBy": "mrmrchris#8979" }
+	"63":   { "ReservedBy": "mrmrchris#8979" },
 
-	"31":	{ "ReservedBy":	"Telejaba#2162" }, //Encore Boyfriend
-	"32":	{ "ReservedBy":	"Telejaba#2162" } //Chaos the impostorඞ
-	"97":	{ "ReservedBy":	"Stumpedlogs#1628" } //Spamton
+	"31":	{ "ReservedBy":	"Telejaba#2162" },		// Encore Boyfriend
+	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
+	"97":	{ "ReservedBy":	"Stumpedlogs#1628" }	// Spamton
 }
