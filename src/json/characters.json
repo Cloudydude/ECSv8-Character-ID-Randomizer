@@ -35,43 +35,52 @@
 	// --- Reserved characters --- //
 	// --------------------------- //
 
-	"3":	{ "ReservedBy":	"iCloudius" },
-	"4":	{ "ReservedBy":	"iCloudius" },
-
-	"5":	{ "ReservedBy":	"Extra Slot Shadow" },
-
+	"3":	{ "ReservedBy":	"iCloudius" },			// Amy Rose
+	"4":	{ "ReservedBy":	"iCloudius" },			// Metal Sonic Kai
+	"5":	{ "ReservedBy":	"Extra Slot Shadow" },		// Shadow the Hedgehog
 	"6":	{ "ReservedBy":	"Hiroki02#8280" },
 	
-	"9":	{ "ReservedBy": "boblesponge2#0476" }, 		//Fang/Nack
-
+	"8":	{ "ReservedBy":	"Just Chris#0720" },		// metal knuckles
+	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
 	"10":	{ "ReservedBy":	"Dynamic Lemons#2965" },
 	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },
 	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },
 	"13":	{ "ReservedBy":	"Dynamic Lemons#2965" },
 	"14":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-
-	"15":	{ "ReservedBy":	"Senpai-Star#5518" },	// Lunarre
-	"94":	{ "ReservedBy":	"Senpai-Star#5518" },	// Kirby
-
-	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
-	"21":	{ "ReservedBy":	"BLUΞ#1103" },			// Sash Lilac The Dragon
-	"22":	{ "ReservedBy":	"CartoonAnimate22" },	// CA22 Sonic
-	"29":	{ "ReservedBy": "Benkoopa#4456" },		//Reyn
-	"41":	{ "ReservedBy":	"Benkoopa#4456" },		// El Macho
-	"57":	{ "ReservedBy": "Benkoopa#4456" },		//Benkoopa
-	"85":   { "ReservedBy": "plushnoob#3444" },		// laveslime's mario
-	"8":	{ "ReservedBy":	"Just Chris#0720" },	// metal knuckles
-	"75":	{ "ReservedBy":	"Just Chris#0720" },	// extra life
+	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
 	
-	"232":	{ "ReservedBy":	"SonicFan#4324" },
-	"63":   { "ReservedBy": "mrmrchris#8979" },  // Reimu
-
+	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
+	
+	"21":	{ "ReservedBy":	"BLUΞ#1103" },			// Sash Lilac The Dragon
+	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
+	
+	"25":	{ "ReservedBy": "raf#4911" }, 			// Peashooter
+	
+	"29":	{ "ReservedBy": "Benkoopa#4456" },		// Reyn
+	
 	"31":	{ "ReservedBy":	"Telejaba#2162" },		// Encore Boyfriend
 	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
-	"97":	{ "ReservedBy":	"Stumpedlogs#1628" }	// Spamton
+	
+	"41":	{ "ReservedBy":	"Benkoopa#4456" },		// El Macho
+	
+	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
+	
+	"57":	{ "ReservedBy": "Benkoopa#4456" },		// Benkoopa
+	
+	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Reimu
+	
+	"75":	{ "ReservedBy":	"Just Chris#0720" },		// Extra Life
+	
+	"85":   { "ReservedBy": "plushnoob#3444" },		// laveslime's Mario
+	
+	"92":   { "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
+	
+	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
+	
+	"97":	{ "ReservedBy":	"Stumpedlogs#1628" }		// Spamton
+	
 	"110":	{ "ReservedBy": "ThomasHallVlogs#1386" }, 	// Modern Sonic
-        "92":   { "ReservedBy": "may i have a sip?#2153" },   // Sailor Moon
-	"46":	{ "ReservedBy": "beesouls🆖#3712" },		//Kitsunami 
-	"25":	{ "ReservedBy": "raf#4911" }, 		//Peashooter
+
+	"232":	{ "ReservedBy":	"SonicFan#4324" },
 
 }
