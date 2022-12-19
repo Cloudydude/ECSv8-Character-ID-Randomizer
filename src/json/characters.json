@@ -40,13 +40,13 @@
 	"5":	{ "ReservedBy":	"Extra Slot Shadow" },		// Shadow the Hedgehog
 	"6":	{ "ReservedBy":	"Hiroki02#8280" },
 	
-	"8":	{ "ReservedBy":	"Just Chris#0720" },		// metal knuckles
+	"8":	{ "ReservedBy":	"Just Chris#0720" },		// Metal Knuckles
 	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
-	"10":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-	"13":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-	"14":	{ "ReservedBy":	"Dynamic Lemons#2965" },
+	"10":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Appel
+	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Shenkune
+	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Sam
+	"13":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
+	"14":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
 	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
 	
 	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
@@ -81,6 +81,5 @@
 	
 	"110":	{ "ReservedBy": "ThomasHallVlogs#1386" }, 	// Modern Sonic
 
-	"232":	{ "ReservedBy":	"SonicFan#4324" },
-
+	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 }
