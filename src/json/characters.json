@@ -21,14 +21,6 @@
 		"URL":			"https://gamebanana.com/mods/403766",
 		"ModVersion":	"v1.0"
 	},
-	/* --- Extra Slot Metal --- */
-	"30":	{
-		"Name":			"Extra Slot Ultimate Metal",
-		"Author":		"Telejaba#2162",
-		"Description":	"Metal no longer needs to be Sonic because he realized himself as a person, and became an extra slot.",
-		"ModVersion":	"Demo 2",
-		"URL":			"https://gamebanana.com/wips/70293"
-	},
 
 	
 	// --------------------------- //
@@ -60,6 +52,7 @@
 	
 	"29":	{ "ReservedBy": "Benkoopa#4456" },		// Reyn
 	
+	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
 	"31":	{ "ReservedBy":	"Telejaba#2162" },		// Encore Boyfriend
 	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
 	
