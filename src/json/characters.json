@@ -21,46 +21,67 @@
 		"URL":			"https://gamebanana.com/mods/403766",
 		"ModVersion":	"v1.0"
 	},
-	/* --- Extra Slot Metal --- */
-	"30":	{
-		"Name":			"Extra Slot Ultimate Metal",
-		"Author":		"Telejaba#2162",
-		"Description":	"Metal no longer needs to be Sonic because he realized himself as a person, and became an extra slot.",
-		"ModVersion":	"Demo 2",
-		"URL":			"https://gamebanana.com/wips/70293"
- },
 
 	
 	// --------------------------- //
 	// --- Reserved characters --- //
 	// --------------------------- //
 
-	"3":	{ "ReservedBy":	"iCloudius" },
-	"4":	{ "ReservedBy":	"iCloudius" },
-
-	"5":	{ "ReservedBy":	"Extra Slot Shadow" },
-
+	"3":	{ "ReservedBy":	"iCloudius" },			// Amy Rose
+	"4":	{ "ReservedBy":	"iCloudius" },			// Metal Sonic Kai
+	"5":	{ "ReservedBy":	"Extra Slot Shadow" },		// Shadow the Hedgehog
 	"6":	{ "ReservedBy":	"Hiroki02#8280" },
-
-	"10":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },
-
-	"15":	{ "ReservedBy":	"Senpai-Star#5518" }, // Lunarre
-	"94":	{ "ReservedBy":	"Senpai-Star#5518" }, // Kirby
-
-	"17":	{ "ReservedBy":	"BLUΞ#1103" }, // Kit
-	"21":	{ "ReservedBy":	"BLUΞ#1103" }, // Sash Lilac The Dragon
-	"22":	{ "ReservedBy":	"CartoonAnimate22" }, // CA22 Sonic
-	"41":	{ "ReservedBy":	"Benkoopa#4456" }, // El Macho
-        "85":   { "ReservedBy": "plushnoob#3444" }, //laveslime's mario
-	"8":	{ "ReservedBy":	"Just Chris#0720" }, //metal knuckles
-	"75":	{ "ReservedBy":	"Just Chris#0720" }, //extra life
+	"7":    { "ReservedBy": "Guhtati#5708" },               // Another Amy Rose 
+	"8":	{ "ReservedBy":	"Just Chris#0720" },		// Metal Knuckles
+	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
+	"10":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Appel
+	"11":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Shenkune
+	"12":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// Sam
+	"13":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
+	"14":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
+	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
 	
-	"232":	{ "ReservedBy":	"SonicFan#4324" },
-	"63":   { "ReservedBy": "mrmrchris#8979" }
+	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
+	
+	"18":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Kris
+	"21":	{ "ReservedBy":	"BLUΞ#1103" },			// Sash Lilac The Dragon
+	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
+	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
+	"25":	{ "ReservedBy": "raf#4911" }, 			// Peashooter
 
-	"31":	{ "ReservedBy":	"Telejaba#2162" }, //Encore Boyfriend
-	"32":	{ "ReservedBy":	"Telejaba#2162" } //Chaos the impostorඞ
-	"97":	{ "ReservedBy":	"Stumpedlogs#1628" } //Spamton
+	"26":	{ "ReservedBy":	"JSevion#7178" },		// Espio
+	"27":	{ "ReservedBy":	"JSevion#7178" },		// ???
+	"28":	{ "ReservedBy":	"JSevion#7178" },		// ???
+	
+	"29":	{ "ReservedBy": "Benkoopa#4456" },		// Reyn
+	
+	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
+	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
+	
+	"41":	{ "ReservedBy":	"Benkoopa#4456" },		// El Macho
+	
+	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
+
+	"55":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Noelle
+
+	"56":	{ "ReservedBy":	"SAMPL#1873" }	,		// Cuphead
+	
+	"57":	{ "ReservedBy": "Benkoopa#4456" },		// Benkoopa
+	
+	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Reimu
+	
+	"75":	{ "ReservedBy":	"Just Chris#0720" },		// Extra Life
+	
+	"82":	{ "ReservedBy": "skidwithag#4249" },		// Shift
+	"85":   { "ReservedBy": "plushnoob#3444" },		// laveslime's Mario
+	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
+	"92":   { "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
+	
+	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
+	
+	"97":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Spamton
+	"99":	{ "ReservedBy":	"Jester Sam#0809" },	// Newtrogic Jester(Sangster)
+	"110":	{ "ReservedBy": "ThomasHallVlogs#1386" }, 	// Modern Sonic
+	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
+	"232":	{ "ReservedBy":	"SonicFan#4324" } 	        // Yang
 }
