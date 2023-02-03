@@ -40,32 +40,30 @@
 	"13":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
 	"14":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
 	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
-	
+	"16":	{ "ReservedBy":	"SmashNinja#1048" },		// RatherNoise Fang
 	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
-	
 	"18":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Kris
+
 	"21":	{ "ReservedBy":	"BLUΞ#1103" },			// Sash Lilac The Dragon
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
 	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
-	"25":	{ "ReservedBy": "raf#4911" }, 			// Peashooter
 
+	"25":	{ "ReservedBy": "raf#4911" }, 			// Peashooter
 	"26":	{ "ReservedBy":	"JSevion#7178" },		// Espio
 	"27":	{ "ReservedBy":	"JSevion#7178" },		// ???
 	"28":	{ "ReservedBy":	"JSevion#7178" },		// ???
-	
 	"29":	{ "ReservedBy": "Benkoopa#4456" },		// Reyn
 	
 	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
+
 	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
 	
 	"41":	{ "ReservedBy":	"Benkoopa#4456" },		// El Macho
 	
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 
-	"55":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Noelle
-
-	"56":	{ "ReservedBy":	"SAMPL#1873" }	,		// Cuphead
-	
+	"55":	{ "ReservedBy":	"Stumpedlogs#1628" }		// Noelle
+	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
 	"57":	{ "ReservedBy": "Benkoopa#4456" },		// Benkoopa
 	
 	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Reimu
@@ -73,15 +71,22 @@
 	"75":	{ "ReservedBy":	"Just Chris#0720" },		// Extra Life
 	
 	"82":	{ "ReservedBy": "skidwithag#4249" },		// Shift
+
 	"85":   { "ReservedBy": "plushnoob#3444" },		// laveslime's Mario
+
 	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
 	"92":   { "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
 	
 	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
 	
 	"97":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Spamton
+  
 	"99":	{ "ReservedBy":	"Jester Sam#0809" },	// Newtrogic Jester(Sangster)
+  
 	"110":	{ "ReservedBy": "ThomasHallVlogs#1386" }, 	// Modern Sonic
+  
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
+  
 	"232":	{ "ReservedBy":	"SonicFan#4324" } 	        // Yang
+
 }
