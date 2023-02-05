@@ -21,6 +21,14 @@
 		"URL":			"https://gamebanana.com/mods/403766",
 		"ModVersion":	"v1.0"
 	},
+	/* --- Extra Slot 3D2D Shadow --- */
+	"5":	{
+		"Name":			"Extra Slot 3D2D Shadow",
+		"Author":		"Sotaknuck & 1funniman",
+		"Description":	"Shadow The Hedgehog is now playable in an extra character slot without overriding Sonic, with his moveset from Sonic 3D in 2D!",
+		"URL":			"https://gamebanana.com/mods/401677",
+		"ModVersion":	"v2.0.3"
+	},
 
 	
 	// --------------------------- //
@@ -29,7 +37,6 @@
 
 	"3":	{ "ReservedBy":	"iCloudius" },			// Amy Rose
 	"4":	{ "ReservedBy":	"iCloudius" },			// Metal Sonic Kai
-	"5":	{ "ReservedBy":	"Extra Slot Shadow" },		// Shadow the Hedgehog
 	"6":	{ "ReservedBy":	"Hiroki02#8280" },
 	"7":    { "ReservedBy": "Guhtati#5708" },               // Another Amy Rose 
 	"8":	{ "ReservedBy":	"Just Chris#0720" },		// Metal Knuckles
@@ -40,7 +47,6 @@
 	"13":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
 	"14":	{ "ReservedBy":	"Dynamic Lemons#2965" },	// TBD
 	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
-	"16":	{ "ReservedBy":	"SmashNinja#1048" },		// RatherNoise Fang
 	"17":	{ "ReservedBy":	"BLUΞ#1103" },			// Kit
 	"18":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Kris
 
@@ -55,18 +61,20 @@
 	"29":	{ "ReservedBy": "Benkoopa#4456" },		// Reyn
 	
 	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
-
+        "31":	{ "ReservedBy":	"Telejaba#2162" },		// Bunfriend
 	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
 	
 	"41":	{ "ReservedBy":	"Benkoopa#4456" },		// El Macho
 	
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 
-	"55":	{ "ReservedBy":	"Stumpedlogs#1628" }		// Noelle
+	"55":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Noelle
 	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
-	"57":	{ "ReservedBy": "Benkoopa#4456" },		// Benkoopa
+	"57":	{ "ReservedBy": "Benkoopa#4456" },		// Cooper
 	
 	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Reimu
+
+	"66":   { "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
 	
 	"75":	{ "ReservedBy":	"Just Chris#0720" },		// Extra Life
 	
