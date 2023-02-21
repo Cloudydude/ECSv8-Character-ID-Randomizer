@@ -95,8 +95,10 @@
 	
 	"97":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Spamton
   
-	"99":	{ "ReservedBy":	"Jester Sam#0809" },	// Newtrogic Jester(Sangster)
+	"99":	{ "ReservedBy":	"Jester Sam#0809" },	        // Newtrogic Jester(Sangster)
   
+        "100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
+
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
   
 	"232":	{ "ReservedBy":	"SonicFan#4324" } 	        // Yang
