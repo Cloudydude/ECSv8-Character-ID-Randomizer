@@ -58,19 +58,19 @@
 	"21":	{ "ReservedBy":	"BLUΞ#1103" },			// Sash Lilac The Dragon
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
 	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
-	"24":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Berry Steakfries
+	"24":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Barry Steakfries
 	"25":	{ "ReservedBy": "raf#4911" }, 			// Peashooter
 	"26":	{ "ReservedBy":	"JSevion#7178" },		// Espio
 	"27":	{ "ReservedBy":	"JSevion#7178" },		// ???
 	"28":	{ "ReservedBy":	"JSevion#7178" },		// ???
 	"29":	{ "ReservedBy": "Benkoopa#4456" },		// Reyn	
 
-	//Sonic 3 good future
 	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
         "31":	{ "ReservedBy":	"Telejaba#2162" },		// Bunfriend
 	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
 	
 	"41":	{ "ReservedBy":	"Benkoopa#4456" },		// El Macho
+	"42":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Meat Boy
 	
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 
@@ -92,10 +92,12 @@
 	"92":   { "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
 	
 	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
-	
+	"95":	{ "ReservedBy":	"FruityStar#4494" },		// Bandana Waddle Dee
 	"97":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Spamton
   
-	"99":	{ "ReservedBy":	"Jester Sam#0809" },	// Newtrogic Jester(Sangster)
+	"99":	{ "ReservedBy":	"Jester Sam#0809" },	        // Newtrogic Jester(Sangster)
+	
+	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
   
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
   
