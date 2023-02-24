@@ -9,7 +9,7 @@ ECSv8 simple tool for choosing an ID for an Extra Character, ignoring those alre
 To add your characters' IDs to the registered list, you need to follow few simple steps:
 
 1. Register on github.com if you haven't already. Make a fork of this repository.
-2. Go to [https://fadeinside.github.io/ECSv8-Character-ID-Randomizer/](https://randomizer.extra-character-slots.com/) and generate any ID.
+2. Go to [https://randomizer.extra-character-slots.com/](https://randomizer.extra-character-slots.com/) and generate any ID.
 3. Open the file `src/json/characters.json`.
 4. Depending on your goals:
 	- If you want to register your character as a release and have it displayed on the site, then go to the `Released characters` comment and add the following code to the free space:
