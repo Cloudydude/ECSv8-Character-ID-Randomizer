@@ -101,6 +101,9 @@
 
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
   
-	"232":	{ "ReservedBy":	"SonicFan#4324" } 	        // Yang
+	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
+        "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
+
+        "241":  { "ReservedBy": "Shaded#0834" }                 // Curly
 }
