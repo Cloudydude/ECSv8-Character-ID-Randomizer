@@ -110,5 +110,5 @@
 
         "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
 
-        "241":  { "ReservedBy": "Shaded#0834" }                 // Curly
+        "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
 }
