@@ -92,7 +92,7 @@
 	"83":	{ "ReservedBy": "skidwithag#4249" },		// Gear
 	
 	"85":   { "ReservedBy": "plushnoob#3444" },		// smw Mario
-        "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
+  "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
 	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
 	"92":   { "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
 	
@@ -105,12 +105,19 @@
 	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
 
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
+	"142":	{ "ReservedBy":	"TailsOrigins#8772" },		// Perry/Agent P
+  
+  "207":  { "ReservedBy": "cgk" },                       //buster bunny 
   
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
-        "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
+  "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
 
-        "207":  { "ReservedBy": "cgk" },                       //buster bunny 
-	
-	
+  "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
+
+  "242":  { "ReservedBy": "Shaded#0834" },                 // Sue Sakamoto
+
+  "243":  { "ReservedBy": "Shaded#0834" },                 // Misery
+
+  "244":  { "ReservedBy": "Shaded#0834" }                  // TBA
 }
