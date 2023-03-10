@@ -10,7 +10,7 @@
 		"Name":			"Extra Slot Mighty",
 		"Author":		"iCloudius",
 		"Description":	"Revisit Angel Island as the everyone’s favorite hard-shelled hero, Mighty the Armadillo. Bash through badniks with the hammer drop, scale large walls with the wall jump, and explore Knuckles' routes in Angel Island act 2, Ice Cap, and Lava Reef act 2.",
-		"URL":			"https://sonic3air.boards.net/thread/29/extra-slot-mighty",
+		"URL":			"https://gamebanana.com/mods/336038",
 		"ModVersion":	"v4.20"
 	},
 	/* --- Extra Slot Ray --- */
@@ -18,7 +18,7 @@
 		"Name":			"Extra Slot Ray",
 		"Author":		"Fabchaotix, CancerEdition, campbellsonic, iCloudius",
 		"Description":	"Extra Slot Ray is here. He can glide, he his an air boost, and you can use him as a hang glider when paired up with Sonic, Knuckles, or Mighty.",
-		"URL":			"https://sonic3air.boards.net/thread/30/extra-slot-ray",
+		"URL":			"https://gamebanana.com/mods/403766",
 		"ModVersion":	"v1.0"
 	},
 	/* --- Extra Slot 3D2D Shadow --- */
@@ -26,7 +26,7 @@
 		"Name":			"Extra Slot 3D2D Shadow",
 		"Author":		"Sotaknuck & 1funniman",
 		"Description":	"Shadow The Hedgehog is now playable in an extra character slot without overriding Sonic, with his moveset from Sonic 3D in 2D!",
-		"URL":			"https://sonic3air.boards.net/thread/86/extra-slot-3d2d-shadow",
+		"URL":			"https://gamebanana.com/mods/401677",
 		"ModVersion":	"v2.0.3"
 	},
 
@@ -53,9 +53,6 @@
 	"19":	{ "ReservedBy": "Michael7#4814" },		// Another Fang
 	"20":	{ "ReservedBy": "Michael7#4814" },		// Rouge
 
-
-
-	"21":	{ "ReservedBy":	"BLUΞ#1103" },			// Sash Lilac The Dragon
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
 	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
 	"24":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Barry Steakfries
@@ -83,7 +80,9 @@
 	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Albert
 
 	"66":   { "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
-
+	
+	"73":	{ "ReservedBy":	"BLUΞ#1103" },			// The Noise
+	
 	"75":	{ "ReservedBy":	"Just Chris#0720" },		// Extra Life
 	
 	"77":	{ "ReservedBy":	"Parliament#8647" },		// TBD
@@ -105,7 +104,6 @@
 	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
 
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
-	"142":	{ "ReservedBy":	"TailsOrigins#8772" },		// Perry/Agent P
   
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
