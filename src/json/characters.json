@@ -112,6 +112,10 @@
 
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
         
+	"163":   { "ReservedBy": "BlueHotMess"},             // Mecha Sonic MK.II
+	"164":   { "ReservedBy": "BlueHotMess"},             // ???
+	"165":   { "ReservedBy": "BlueHotMess"},             // ???
+	
 	"207":	{ "ReservedBy":	"cgk#0642" },.                  //buster bunny
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
