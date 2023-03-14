@@ -112,7 +112,7 @@
 
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
         
-	"207":	{ "ReservedBy":	"cgk#0642" },.                  //buster bunny
+	"207":	{ "ReservedBy":	"cgk#0642" },                  //buster bunny
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
@@ -124,5 +124,5 @@
 
         "243":  { "ReservedBy": "Shaded#0834" },                 // Misery
 
-        "244":  { "ReservedBy": "Shaded#0834" }                  // TBA
+        "244":  { "ReservedBy": "Shaded#0834" },                  // TBA
 }
