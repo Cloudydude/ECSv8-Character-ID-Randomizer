@@ -10,23 +10,23 @@
 		"Name":			"Extra Slot Mighty",
 		"Author":		"iCloudius",
 		"Description":	"Revisit Angel Island as the everyone’s favorite hard-shelled hero, Mighty the Armadillo. Bash through badniks with the hammer drop, scale large walls with the wall jump, and explore Knuckles' routes in Angel Island act 2, Ice Cap, and Lava Reef act 2.",
-		"URL":			"https://gamebanana.com/mods/336038",
-		"ModVersion":	"v4.20"
+		"URL":			"https://sonic3air.boards.net/thread/29/extra-slot-mighty",
+		"ModVersion":	"v5.0"
 	},
 	/* --- Extra Slot Ray --- */
 	"2":	{
 		"Name":			"Extra Slot Ray",
 		"Author":		"Fabchaotix, CancerEdition, campbellsonic, iCloudius",
 		"Description":	"Extra Slot Ray is here. He can glide, he his an air boost, and you can use him as a hang glider when paired up with Sonic, Knuckles, or Mighty.",
-		"URL":			"https://gamebanana.com/mods/403766",
-		"ModVersion":	"v1.0"
+		"URL":			"https://sonic3air.boards.net/thread/30/extra-slot-ray",
+		"ModVersion":	"v2.0"
 	},
 	/* --- Extra Slot 3D2D Shadow --- */
 	"5":	{
 		"Name":			"Extra Slot 3D2D Shadow",
 		"Author":		"Sotaknuck & 1funniman",
 		"Description":	"Shadow The Hedgehog is now playable in an extra character slot without overriding Sonic, with his moveset from Sonic 3D in 2D!",
-		"URL":			"https://gamebanana.com/mods/401677",
+		"URL":			"https://sonic3air.boards.net/thread/86/extra-slot-3d2d-shadow",
 		"ModVersion":	"v2.0.3"
 	},
 
@@ -94,10 +94,10 @@
 	"83":	{ "ReservedBy": "skidwithag#4249" },		// Gear
 	
 	"85":   { "ReservedBy": "plushnoob#3444" },		// smw Mario
-        "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
+  "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
 	
 	"87":   { "ReservedBy": "CyanideJam#4267" },		// Ashura
-        "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
+  "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
 	
 	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
 	"92":   { "ReservedBy": "may i have a sip?#2153" },	// Sailor Moon
@@ -106,27 +106,31 @@
 	"95":	{ "ReservedBy":	"FruityStar#4494" },		// Bandana Waddle Dee
 	"97":	{ "ReservedBy":	"Stumpedlogs#1628" },		// Spamton
         
-	"99":	{ "ReservedBy":	"Jester Sam#0809" },	        // Newtrogic Jester(Sangster)
+	"99":	{ "ReservedBy":	"Jester Sam#0809" },	        // C.H.C. Jester
   
 	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
 
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
+	
+	"142":  { "ReservedBy": "TailsOrigins#8772" },		// Perry/Agent P
         
+
 	"163":   { "ReservedBy": "BlueHotMess"},             // Mecha Sonic MK.II
 	"164":   { "ReservedBy": "BlueHotMess"},             // ???
 	"165":   { "ReservedBy": "BlueHotMess"},             // ???
 	
-	"207":	{ "ReservedBy":	"cgk#0642" },.                  //buster bunny
+	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
+
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
-        "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
+  "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
 
-        "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
+  "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
 
-        "242":  { "ReservedBy": "Shaded#0834" },                 // Sue Sakamoto
+  "242":  { "ReservedBy": "Shaded#0834" },                 // Sue Sakamoto
 
-        "243":  { "ReservedBy": "Shaded#0834" },                 // Misery
+  "243":  { "ReservedBy": "Shaded#0834" },                 // Misery
 
-        "244":  { "ReservedBy": "Shaded#0834" },                  // TBA
+  "244":  { "ReservedBy": "Shaded#0834" }                  // TBA
 }
