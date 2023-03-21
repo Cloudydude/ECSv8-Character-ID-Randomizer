@@ -113,6 +113,8 @@
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
 	
 	"142":  { "ReservedBy": "TailsOrigins#8772" },		// Perry/Agent P
+	"143":	{ "ReservedBy": "TailsOrigins#8772" },		// TBD
+	"144":	{ "ReservedBy": "TailsOrigins#8772" },		// TBD
         
 
 	"163":   { "ReservedBy": "BlueHotMess"},             // Mecha Sonic MK.II
@@ -124,13 +126,13 @@
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
-  "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
+	  "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
 
-  "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
+	  "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
 
-  "242":  { "ReservedBy": "Shaded#0834" },                 // Sue Sakamoto
+	  "242":  { "ReservedBy": "Shaded#0834" },                 // Sue Sakamoto
 
-  "243":  { "ReservedBy": "Shaded#0834" },                 // Misery
+	  "243":  { "ReservedBy": "Shaded#0834" },                 // Misery
 
-  "244":  { "ReservedBy": "Shaded#0834" }                  // TBA
+	  "244":  { "ReservedBy": "Shaded#0834" }                  // TBA
 }
