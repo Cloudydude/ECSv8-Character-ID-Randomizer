@@ -115,10 +115,12 @@
 	
 	"142":  { "ReservedBy": "TailsOrigins#8772" },		// Perry/Agent P
 	"143":	{ "ReservedBy": "TailsOrigins#8772" },		// TBD
+	
 	"144":	{ "ReservedBy": "TailsOrigins#8772" },		// TBD
-        
-
-	"163":   { "ReservedBy": "BlueHotMess"},             // Mecha Sonic MK.II
+        "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
+ 
+	
+	"163" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
 	"164":   { "ReservedBy": "BlueHotMess"},             // ???
 	"165":   { "ReservedBy": "BlueHotMess"},             // ???
 	
@@ -136,4 +138,5 @@
 	  "243":  { "ReservedBy": "Shaded#0834" },                 // Misery
 
 	  "244":  { "ReservedBy": "Shaded#0834" }                  // TBA
+	
 }
