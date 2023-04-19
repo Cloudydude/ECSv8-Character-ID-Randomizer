@@ -138,14 +138,14 @@
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
-	  "240":  { "ReservedBy": "Shaded#0834" },                 // Quote
+	"240":  { "ReservedBy": "Shaded#0834" },                 // Quote
 
-	  "241":  { "ReservedBy": "Shaded#0834" },                 // Curly
+	"241":  { "ReservedBy": "Shaded#0834" },                 // Curly
 
-	  "242":  { "ReservedBy": "Shaded#0834" },                 // Megamix Sonic
+	"242":  { "ReservedBy": "Shaded#0834" },                 // Megamix Sonic
 
-	  "243":  { "ReservedBy": "Shaded#0834" },                 // Megamix Knuckles
+	"243":  { "ReservedBy": "Shaded#0834" },                 // Adventure Sonic
 
-	  "244":  { "ReservedBy": "Shaded#0834" }                  // Misery
+	"244":  { "ReservedBy": "Shaded#0834" }                  // Misery
 	
 }
