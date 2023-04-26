@@ -84,6 +84,8 @@
 	
 	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Albert
 
+        "64":	{ "ReservedBy":	"montydoesgames" },          // Monty
+
 	"66":   { "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
 	
 	"73":	{ "ReservedBy":	"BLUΞ#1103" },			// The Noise
@@ -131,7 +133,6 @@
 	"165":   { "ReservedBy": "BlueHotMess"},             // ???
 	"166":   { "ReservedBy": "BlueHotMess"},             // ???
 
-        "192":	{ "ReservedBy":	"montydoesgames" },          //Kirby
 	
 	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
 	
