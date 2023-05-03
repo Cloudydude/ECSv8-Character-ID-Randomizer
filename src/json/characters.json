@@ -21,6 +21,14 @@
 		"URL":			"https://sonic3air.boards.net/thread/30/extra-slot-ray",
 		"ModVersion":	"v2.0"
 	},
+	/* --- Extra Slot Amy --- */
+	"3":	{
+		"Name":			"Extra Slot Amy",
+		"Author":		"MiaCDi, BLUΞ, iCloudius & Dynamic Lemons",
+		"Description":	"Play as Amy Rose!",
+		"URL":			"https://sonic3air.boards.net/thread/274/extra-slot-amy",
+		"ModVersion":	"1.0"
+	},
 	/* --- Extra Slot 3D2D Shadow --- */
 	"5":	{
 		"Name":			"Extra Slot 3D2D Shadow",
@@ -35,7 +43,6 @@
 	// --- Reserved characters --- //
 	// --------------------------- //
 
-	"3":	{ "ReservedBy":	"iCloudius" },			// Amy Rose
 	"4":	{ "ReservedBy":	"iCloudius" },			// Metal Sonic Kai
 	"6":	{ "ReservedBy":	"Hiroki02#8280" },              // seafoam
 	"7":    { "ReservedBy": "Guhtati#5708" },               // Another Amy Rose 
@@ -98,10 +105,9 @@
 	"83":	{ "ReservedBy": "skidwithag#4249" },		// Gear
 	
 	"85":   { "ReservedBy": "plushnoob#3444" },		// smw Mario
-  "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
+        "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
 	
-	"87":   { "ReservedBy": "CyanideJam#4267" },		// Ashura
-  "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
+        "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
 	
 	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
 	
