@@ -127,7 +127,9 @@
 	
 	"163" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
 	"164":   { "ReservedBy": "BlueHotMess"},             // ???
-	"165":   { "ReservedBy": "BlueHotMess"},             // ???
+	"165":   { "ReservedBy": "BlueHotMess"},
+	
+	"168":{ "ReservedBy": "Sonic-Blue-Speed"},           // Extra Slot 3D In 2D Ashura
 
         "192":	{ "ReservedBy":	"montydoesgames" },          //Kirby
 	
