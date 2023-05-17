@@ -167,6 +167,6 @@
 
 	"244":  { "ReservedBy": "Shaded#0834" }                  // Misery
 	
-	"255":	{"ReservedBy: "Timer#0514" }			// Sage (ES Port)
+	"255":	{"ReservedBy": "Timer#0514" }			// Sage (ES Port)
 	
 }
