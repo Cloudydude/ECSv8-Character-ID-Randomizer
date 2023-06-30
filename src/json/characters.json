@@ -107,6 +107,7 @@
 	
 	"85":   { "ReservedBy": "plushnoob#3444" },		// smw Mario
         "86":   { "ReservedBy": "plushnoob#3444" },		// ashura the glitch hog
+	"87":  { "ReservedBy": "BlastProcess#9574"},		// Link the Hero
 	
         "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
 	
@@ -124,8 +125,6 @@
 	"107":   { "ReservedBy": "BlueHotMess"},             // ES Template
 	"108":   { "ReservedBy": "BlueHotMess"},             // ES Template
 	
-	"122":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Knuckles	
-	"123":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Tails
 	"124":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Sonic
 	
 	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
