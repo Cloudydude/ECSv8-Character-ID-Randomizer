@@ -49,12 +49,14 @@
 	"8":	{ "ReservedBy":	"jc_thatone" },			// Metal Knuckles
 	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
 	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
+
 	"16":	{ "ReservedBy":	"glitchy8" },			// Chiba Ayumi
 	"17":	{ "ReservedBy":	"blu32x" },			// Kit
 	"18":	{ "ReservedBy":	"leay_leo" },			// Cream
 	"19":	{ "ReservedBy": "michael7mouse" },		// Editon's Fang
 	"20":	{ "ReservedBy":	"jc_thatone" },			// Extra Life
 	"21":	{ "ReservedBy": "michael7mouse" },		// Rouge
+
 	"21":	{ "ReservedBy":	"Hiroki02#8280" },		// Astra
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
 	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
@@ -106,10 +108,11 @@
 	"83":	{ "ReservedBy": "skidwithag#4249" },		// Gear
 	
 	"85":   { "ReservedBy": "plushnoob#3444" },		// smw Mario
-        "86":   { "ReservedBy": "plushnoob#3444" },		// Sally acorn
-	"87":   { "ReservedBy": "BlastProcess#9574"},		// Link the Hero
+  "86":   { "ReservedBy": "plushnoob#3444" },		// Sally acorn
+	"87":  { "ReservedBy": "BlastProcess#9574"},		// Link the Hero
 	
-        "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
+  "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
+	"89":   { "ReservedBy": "mushrunt" },               // S3K styled Mario
 	
 	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
 	"92": 	{ "ReservedBy": "Davil#6098"}, 			// Pana der hejhog
@@ -136,16 +139,18 @@
 	"143":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	
 	"144":	{ "ReservedBy": "Origins7#8772" },		// TBD
-	"155":	{ "ReservedBy": "katiestarlight" },		// Roxy the Purple Retriever
-        "156":	{ "ReservedBy":	"Davil#6098" },           	//Davil The Android
-	"157":  { "ReservedBy": "BlastProcess#9574"},		// TBR
- 
-	
-	"163" : { "ReservedBy": "BlueHotMess" },            	// Mecha Sonic MK.II
-	"164":  { "ReservedBy": "BlueHotMess"},             	// Mecha Knuckles
-	"165":  { "ReservedBy": "BlueHotMess"},            	// Rayman
-	"166":  { "ReservedBy": "BlueHotMess"},             	// Megamix Shadow
-	"168":	{ "ReservedBy": "s3airforever"},           	// Extra Slot 3D In 2D Ashura
+
+	"155":	{ "ReservedBy": "KatieStarlight#7295" },	// Roxy the Purple Retriever
+  "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
+	"157":  { "ReservedBy": "BlastProcess#9574"},	// TBR
+  
+  "163" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
+	"164":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
+	"165":   { "ReservedBy": "BlueHotMess"},             // Rayman
+  "166":   { "ReservedBy": "BlueHotMess"},             // Megamix Shadow
+
+  "168":{ "ReservedBy": "Sonic-Blue-Speed"},           // Extra Slot 3D In 2D Ashura
+
 
 	
 	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
