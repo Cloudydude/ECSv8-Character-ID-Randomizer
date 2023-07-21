@@ -136,15 +136,15 @@
 	
 	"144":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	"155":	{ "ReservedBy": "KatieStarlight#7295" },	// Roxy the Purple Retriever
-        "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
+  "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
 	"157":  { "ReservedBy": "BlastProcess#9574"},	// TBR
- 
-	
-	"163" : { "ReservedBy" : "BlueHotMess" },            // Mecha Sonic MK.II
+  
+  "163" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
 	"164":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
-	"165":   { "ReservedBy": "BlueHotMess"},             // ???
 	"165":   { "ReservedBy": "BlueHotMess"},             // Rayman
-	"166":   { "ReservedBy": "BlueHotMess"},             // Megamix Shadow
+  "166":   { "ReservedBy": "BlueHotMess"},             // Megamix Shadow
+
+  "168":{ "ReservedBy": "Sonic-Blue-Speed"},           // Extra Slot 3D In 2D Ashura
 
 	
 	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
