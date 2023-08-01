@@ -48,6 +48,9 @@
 	"7":    { "ReservedBy": "guhtati" },               	// Another Amy Rose 
 	"8":	{ "ReservedBy":	"jc_thatone" },			// Metal Knuckles
 	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
+	"12" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
+	"13":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
+	"14":   { "ReservedBy": "BlueHotMess"},             // Rayman
 	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
 
 	"16":	{ "ReservedBy":	"glitchy8" },			// Chiba Ayumi
@@ -145,9 +148,7 @@
   "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
 	"157":  { "ReservedBy": "BlastProcess#9574"},	// TBR
   
-  "163" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
-	"164":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
-	"165":   { "ReservedBy": "BlueHotMess"},             // Rayman
+
   "166":   { "ReservedBy": "BlueHotMess"},             // Megamix Shadow
 
   "168":{ "ReservedBy": "Sonic-Blue-Speed"},           // Extra Slot 3D In 2D Ashura
