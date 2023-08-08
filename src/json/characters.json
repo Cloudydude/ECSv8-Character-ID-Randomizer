@@ -37,6 +37,14 @@
 		"URL":			"https://sonic3air.boards.net/thread/86/extra-slot-3d2d-shadow",
 		"ModVersion":	"v2.0.3"
 	},
+	/* --- Extra Slot Extra Life --- */
+	"20":	{
+		"Name":			"Extra Slot Extra Life",
+		"Author":		"Sotaknuck, JC_thatone, Michael7, Icloudius",
+		"Description":	"Sonic's evil Clone Extra Life roams through Angel Island. And this time he is EVEN MORE EXTRA",
+		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
+		"ModVersion":	"v1.0.0"
+	},
 
 	
 	// --------------------------- //
