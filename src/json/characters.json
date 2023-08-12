@@ -48,9 +48,8 @@
 	"7":    { "ReservedBy": "guhtati" },               	// Another Amy Rose 
 	"8":	{ "ReservedBy":	"jc_thatone" },			// Metal Knuckles
 	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
-	"12" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
-	"13":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
-	"14":   { "ReservedBy": "BlueHotMess"},             // Rayman
+	"13":   { "ReservedBy": "BlueHotMess"},             // Mecha Sonic MK.II
+	"14":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
 	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
 
 	"16":	{ "ReservedBy":	"glitchy8" },			// Chiba Ayumi
@@ -79,7 +78,7 @@
 	"36":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Smoke The Cat
 	"37":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Lilly The Wolf
   	"38":   { "ReservedBy": "Smoke-le-Bloke#1734" },	// Luna the Deer
- 
+ 	
 	"41":	{ "ReservedBy":	"benkoopa" },			// El Macho
 	"42":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Meat Boy
 	
@@ -89,7 +88,7 @@
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 	"47":	{ "ReservedBy": "Telejaba#2162" },		// :Fefe:
 	"48":	{ "ReservedBy":	"GuerreroEnd#4024" },        	// Zack The Cat
-
+	"50":   { "ReservedBy": "BlueHotMess"},             // Rayman
 	"52":   { "ReservedBy": "Chopp#6467" },			// Aurora the Porcupine
 
 	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
