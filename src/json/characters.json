@@ -37,6 +37,14 @@
 		"URL":			"https://sonic3air.boards.net/thread/86/extra-slot-3d2d-shadow",
 		"ModVersion":	"v2.0.3"
 	},
+	/* --- Extra Slot Extra Life --- */
+	"20":	{
+		"Name":			"Extra Slot Extra Life",
+		"Author":		"Sotaknuck, JC_thatone, Michael7, Icloudius",
+		"Description":	"Sonic's evil Clone Extra Life roams through Angel Island. And this time he is EVEN MORE EXTRA",
+		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
+		"ModVersion":	"v1.0.0"
+	},
 
 	
 	// --------------------------- //
@@ -69,16 +77,14 @@
 	"28":	{ "ReservedBy":	"JSevion#7178" },		// ???
 	"29":	{ "ReservedBy": "benkoopa" },			// Reyn	
 
-	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
-        "31":	{ "ReservedBy":	"Telejaba#2162" },		// Bunfriend
-	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
 	"33":   { "ReservedBy": "king the memer#9543"},         // King The Memer 
 	"34":   { "ReservedBy": "king the memer#9543"},         // King The Memer (decomp)
 	"35":   { "ReservedBy": "king the memer#9543"},         // King The Memer (air)
 	"36":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Smoke The Cat
 	"37":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Lilly The Wolf
-  	"38":   { "ReservedBy": "Smoke-le-Bloke#1734" },	// Luna the Deer
- 	
+  	"38":   { "ReservedBy": "Smoke-le-Bloke#1734" },	// Luna the Deer  
+  "39":   { "ReservedBy": "GuerreroEnd#4024" },	        // Origins Amy
+  
 	"41":	{ "ReservedBy":	"benkoopa" },			// El Macho
 	"42":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Meat Boy
 	
@@ -99,6 +105,8 @@
         "64":	{ "ReservedBy":	"montydoesgames" },          	// Monty
 
 	"66":   { "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
+
+	"67":   { "ReservedBy": "soincdeglitcher" }, 		// Woodified Sonic
 	
 	"73":	{ "ReservedBy":	"blu32x" },			// The Noise
 	
