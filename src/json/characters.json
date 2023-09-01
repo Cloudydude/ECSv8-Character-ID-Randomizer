@@ -45,6 +45,14 @@
 		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
 		"ModVersion":	"v1.0.0"
 	},
+	/* Extra slot 3D 2D Ashura --- */
+	"168": 	{
+		"Name": "Extra slot 3D in 2D Ashura",
+		"Author": "sonicbluespeed, Sotaknuck, 3D2D Team, Etc.",
+               "Description": "After being summoned from the flickies to rescue them, he opened up the wrong portal thinking he will be back at the glitch universe but he made one to some type of past portal, Then after that he noticed Sonic, Tails, Knuckles, and their other friends. Sonic offered him if he wants to tag along to defeat Eggman and his robots. Ashura confused why sonic doesn't remember him, he yet agreed and then they go to face off Eggman!",
+		"URL": "https://sonic3air.boards.net/thread/375/new-update-extra-slot-ashura",
+		"ModVersion": "3.0",
+	},
 
 	
 	// --------------------------- //
@@ -158,8 +166,6 @@
 	"164":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
 	"165":   { "ReservedBy": "BlueHotMess"},             // Rayman
   "166":   { "ReservedBy": "BlueHotMess"},             // Megamix Shadow
-
-  "168":{ "ReservedBy": "Sonic-Blue-Speed"},           // Extra Slot 3D In 2D Ashura
 
 
 	
