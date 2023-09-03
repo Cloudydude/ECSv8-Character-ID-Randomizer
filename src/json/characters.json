@@ -84,6 +84,7 @@
 	"37":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Lilly The Wolf
   	"38":   { "ReservedBy": "Smoke-le-Bloke#1734" },	// Luna the Deer  
   "39":   { "ReservedBy": "GuerreroEnd#4024" },	        // Origins Amy
+  	"40":   { "ReservedBy": "BlueHotMess"},             // Shadow the hedgehog Deluxe
   
 	"41":	{ "ReservedBy":	"benkoopa" },			// El Macho
 	"42":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Meat Boy
@@ -155,8 +156,6 @@
   "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
 	"157":  { "ReservedBy": "BlastProcess#9574"},	// TBR
   
-
-  "166":   { "ReservedBy": "BlueHotMess"},             // Megamix Shadow
 
   "168":{ "ReservedBy": "Sonic-Blue-Speed"},           // Extra Slot 3D In 2D Ashura
 
