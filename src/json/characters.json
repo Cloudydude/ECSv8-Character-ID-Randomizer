@@ -45,6 +45,14 @@
 		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
 		"ModVersion":	"v1.0.0"
 	},
+	/* --- Extra Slot MS Sonic --- */
+	"91":	{
+		"Name":			"Extra Slot MS Sonic",
+		"Author":		"Sotaknuck,Plush noob",
+		"Description":	"An alternate version of Sonic has arrived at angel island without overriding Sonic.He can use a Double jump,in-air accelleration & The Strike dash to help him out on the adventure.",
+		"URL":			"https://sonic3air.boards.net/thread/572/extra-slot-ms-sonic",
+		"ModVersion":	"1.0"
+	},
 
 	
 	// --------------------------- //
@@ -123,7 +131,6 @@
   "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
 	"89":   { "ReservedBy": "mushrunt" },               // S3K styled Mario
 	
-	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
 	"92": 	{ "ReservedBy": "Davil#6098"}, 			// Pana der hejhog
 	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
 	"95":	{ "ReservedBy":	"FruityStar#4494" },		// Bandana Waddle Dee
