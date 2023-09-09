@@ -169,15 +169,17 @@
 	
 	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
 
-	"240":  { "ReservedBy": "Shaded#0834" },                // Quote
+	"240":  { "ReservedBy": "SHADED/Finality" },            // Quote
 
-	"241":  { "ReservedBy": "Shaded#0834" },                // Curly
+	"241":  { "ReservedBy": "SHADED/Finality" },            // Curly
 
-	"242":  { "ReservedBy": "Shaded#0834" },                // Megamix Sonic
+	"242":  { "ReservedBy": "SHADED/Finality" },            // Megamix Sonic
 
-	"243":  { "ReservedBy": "Shaded#0834" },                // Adventure Sonic
+	"243":  { "ReservedBy": "SHADED/Finality" },            // Adventure Sonic
 
-	"244":  { "ReservedBy": "Shaded#0834" }                 // Misery
+	"244":  { "ReservedBy": "SHADED/Finality" }             // Misery
+
+        "245":  { "ReservedBy": "SHADED/Finality" }.            // Aki/Akito
 	
 	"255":	{ "ReservedBy": "TimerBunneh" }			// Sage (ES Port)
 	
