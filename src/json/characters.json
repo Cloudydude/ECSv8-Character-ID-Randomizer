@@ -49,7 +49,7 @@
 	"168": 	{
 		"Name": "Extra slot 3D in 2D Ashura",
 		"Author": "sonicbluespeed, Sotaknuck, 3D2D Team, Etc.",
-               "Description": "After being summoned from the flickies to rescue them, he opened up the wrong portal thinking he will be back at the glitch universe but he made one to some type of past portal, Then after that he noticed Sonic, Tails, Knuckles, and their other friends. Sonic offered him if he wants to tag along to defeat Eggman and his robots. Ashura confused why sonic doesn't remember him, he yet agreed and then they go to face off Eggman!",
+		"Description": "After being summoned from the flickies to rescue them, he opened up the wrong portal thinking he will be back at the glitch universe but he made one to some type of past portal, Then after that he noticed Sonic, Tails, Knuckles, and their other friends. Sonic offered him if he wants to tag along to defeat Eggman and his robots. Ashura confused why sonic doesn't remember him, he yet agreed and then they go to face off Eggman!",
 		"URL": "https://sonic3air.boards.net/thread/375/new-update-extra-slot-ashura",
 		"ModVersion": "3.0"
 	},
@@ -58,7 +58,7 @@
 	"91":	{
 		"Name":			"Extra Slot MS Sonic",
 		"Author":		"Sotaknuck,Plush noob",
-		"Description":	"An alternate version of Sonic has arrived at angel island without overriding Sonic.He can use a Double jump, in-air accelleration & The Strike dash to help him out on the adventure.",
+		"Description":	"An alternate version of Sonic has arrived at angel island without overriding Sonic. He can use a Double jump, in-air accelleration & The Strike dash to help him out on the adventure.",
 		"URL":			"https://sonic3air.boards.net/thread/572/extra-slot-ms-sonic",
 		"ModVersion":	"1.0"
 	},
@@ -84,10 +84,10 @@
 	"20":	{ "ReservedBy":	"jc_thatone" },			// Extra Life
 	"21":	{ "ReservedBy": "michael7mouse" },		// Rouge
 
-	"21":	{ "ReservedBy":	"Hiroki02#8280" },		// Astra
+//	"21":	{ "ReservedBy":	"Hiroki02#8280" },		// Astra
 
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
-	"23":	{ "ReservedBy":	"raf#4911" }, 				// Geometry Dash Icon
+	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
 	"24":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Barry Steakfries
 
 	"25":	{ "ReservedBy": "raf#4911" }, 			// Peashooter
@@ -96,7 +96,7 @@
 	"28":	{ "ReservedBy":	"JSevion#7178" },		// ???
 	"29":	{ "ReservedBy": "benkoopa" },			// Reyn
 
-	"32": { "ReservedBy": "TimerBunneh" }, 			// Tempo
+	"32": 	{ "ReservedBy": "TimerBunneh" }, 			// Tempo
 	"33":   { "ReservedBy": "king the memer#9543"},         // King The Memer 
 	"34":   { "ReservedBy": "king the memer#9543"},         // King The Memer (decomp)
 	"35":   { "ReservedBy": "king the memer#9543"},         // King The Memer (air)
