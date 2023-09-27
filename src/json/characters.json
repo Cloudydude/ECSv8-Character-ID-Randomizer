@@ -101,7 +101,7 @@
 	"36":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Smoke The Cat
 	"37":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Lilly The Wolf
   	"38":   { "ReservedBy": "Smoke-le-Bloke#1734" },	// Luna the Deer  
-  "39":   { "ReservedBy": "GuerreroEnd#4024" },	        // Origins Amy
+  	"39":   { "ReservedBy": "GuerreroEnd#4024" },	        // Origins Amy
   	"40":   { "ReservedBy": "BlueHotMess"},             // Shadow the hedgehog Deluxe
   
 	"41":	{ "ReservedBy":	"benkoopa" },			// El Macho
@@ -171,12 +171,9 @@
 	"144":	{ "ReservedBy": "Origins7#8772" },		// TBD
 
 	"155":	{ "ReservedBy": "KatieStarlight#7295" },	// Roxy the Purple Retriever
-
-  "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
+	"156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
 	"157":  { "ReservedBy": "BlastProcess#9574"},	// TBR
   
-
-  "168":{ "ReservedBy": "Sonic-Blue-Speed"},           // Extra Slot 3D In 2D Ashura
 
 	"156":	{ "ReservedBy":	"Davil#6098" },					//Davil The Android
 	"157":	{ "ReservedBy": "BlastProcess#9574"},	// TBR
