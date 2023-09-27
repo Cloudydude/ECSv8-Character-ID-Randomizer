@@ -35,6 +35,7 @@
 		"URL":			"https://sonic3air.boards.net/thread/86/extra-slot-3d2d-shadow",
 		"ModVersion":	"v2.0.3"
 	},
+
 	/* --- Extra Slot Extra Life --- */
 	"20":	{
 		"Name":			"Extra Slot Extra Life",
@@ -43,6 +44,7 @@
 		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
 		"ModVersion":	"v1.0.0"
 	},
+
 	/* Extra slot 3D 2D Ashura --- */
 	"168": 	{
 		"Name": "Extra slot 3D in 2D Ashura",
@@ -50,6 +52,7 @@
                "Description": "After being summoned from the flickies to rescue them, he opened up the wrong portal thinking he will be back at the glitch universe but he made one to some type of past portal, Then after that he noticed Sonic, Tails, Knuckles, and their other friends. Sonic offered him if he wants to tag along to defeat Eggman and his robots. Ashura confused why sonic doesn't remember him, he yet agreed and then they go to face off Eggman!",
 		"URL": "https://sonic3air.boards.net/thread/375/new-update-extra-slot-ashura",
 		"ModVersion": "3.0",
+
 	/* --- Extra Slot MS Sonic --- */
 	"91":	{
 		"Name":			"Extra Slot MS Sonic",
@@ -164,6 +167,7 @@
 	"144":	{ "ReservedBy": "Origins7#8772" },		// TBD
 
 	"155":	{ "ReservedBy": "KatieStarlight#7295" },	// Roxy the Purple Retriever
+
 	"156":	{ "ReservedBy":	"Davil#6098" },					//Davil The Android
 	"157":	{ "ReservedBy": "BlastProcess#9574"},	// TBR
 	
