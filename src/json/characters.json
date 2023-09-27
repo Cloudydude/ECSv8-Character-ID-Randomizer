@@ -3,8 +3,6 @@
 	// --- Released characters --- //
 	// --------------------------- //
 
-	// No one would ever released... Be the first!
-
 	/* --- Extra Slot Mighty --- */
 	"1":	{
 		"Name":			"Extra Slot Mighty",
@@ -37,76 +35,96 @@
 		"URL":			"https://sonic3air.boards.net/thread/86/extra-slot-3d2d-shadow",
 		"ModVersion":	"v2.0.3"
 	},
+
+	/* --- Extra Slot Extra Life --- */
+	"20":	{
+		"Name":			"Extra Slot Extra Life",
+		"Author":		"Sotaknuck, JC_thatone, Michael7, Icloudius",
+		"Description":	"Sonic's evil Clone Extra Life roams through Angel Island. And this time he is EVEN MORE EXTRA",
+		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
+		"ModVersion":	"v1.0.0"
+	},
+
 	/* Extra slot 3D 2D Ashura --- */
 	"168": 	{
 		"Name": "Extra slot 3D in 2D Ashura",
 		"Author": "sonicbluespeed, Sotaknuck, 3D2D Team, Etc.",
                "Description": "After being summoned from the flickies to rescue them, he opened up the wrong portal thinking he will be back at the glitch universe but he made one to some type of past portal, Then after that he noticed Sonic, Tails, Knuckles, and their other friends. Sonic offered him if he wants to tag along to defeat Eggman and his robots. Ashura confused why sonic doesn't remember him, he yet agreed and then they go to face off Eggman!",
 		"URL": "https://sonic3air.boards.net/thread/375/new-update-extra-slot-ashura",
-		"ModVersion": "3.0", 
+		"ModVersion": "3.0",
 
+	/* --- Extra Slot MS Sonic --- */
+	"91":	{
+		"Name":			"Extra Slot MS Sonic",
+		"Author":		"Sotaknuck,Plush noob",
+		"Description":	"An alternate version of Sonic has arrived at angel island without overriding Sonic.He can use a Double jump,in-air accelleration & The Strike dash to help him out on the adventure.",
+		"URL":			"https://sonic3air.boards.net/thread/572/extra-slot-ms-sonic",
+		"ModVersion":	"1.0"
+	},
 
 	
 	// --------------------------- //
 	// --- Reserved characters --- //
 	// --------------------------- //
 
-	"4":	{ "ReservedBy":	"iCloudius" },			// Metal Sonic Kai
-	"6":	{ "ReservedBy":	"Hiroki02#8280" },              // Seafoam
-	"7":    { "ReservedBy": "guhtati" },               	// Another Amy Rose 
-	"8":	{ "ReservedBy":	"jc_thatone" },			// Metal Knuckles
-	"9":	{ "ReservedBy": "boblesponge2#0476" },		// Fang The Sniper/Nack The Weasel 
-	"15":	{ "ReservedBy":	"Senpai-Star#5518" },		// Lunarre
+	"4":	{ "ReservedBy":	"iCloudius" },					// Metal Sonic Kai
+	"6":	{ "ReservedBy":	"Hiroki02#8280" },				// Seafoam
+	"7":	{ "ReservedBy": "guhtati" },					// Another Amy Rose 
+	"8":	{ "ReservedBy":	"jc_thatone" },					// Metal Knuckles
+	"9":	{ "ReservedBy": "boblesponge2#0476" },			// Fang The Sniper/Nack The Weasel
+	"10":	{ "ReservedBy":	"GuerreroEnd#4024" },			// Trip The Sungazer
+	"15":	{ "ReservedBy":	"Senpai-Star#5518" },			// Lunarre
 
-	"16":	{ "ReservedBy":	"glitchy8" },			// Chiba Ayumi
-	"17":	{ "ReservedBy":	"blu32x" },			// Kit
-	"18":	{ "ReservedBy":	"leay_leo" },			// Cream
-	"19":	{ "ReservedBy": "michael7mouse" },		// Editon's Fang
-	"20":	{ "ReservedBy":	"jc_thatone" },			// Extra Life
-	"21":	{ "ReservedBy": "michael7mouse" },		// Rouge
+	"16":	{ "ReservedBy":	"glitchy8" },				// Chiba Ayumi
+	"17":	{ "ReservedBy":	"blu32x" },					// Kit
+	"18":	{ "ReservedBy":	"leay_leo" },				// Cream
+	"19":	{ "ReservedBy": "michael7mouse" },			// Editon's Fang
+	"20":	{ "ReservedBy":	"jc_thatone" },				// Extra Life
+	"21":	{ "ReservedBy": "michael7mouse" },			// Rouge
 
-	"21":	{ "ReservedBy":	"Hiroki02#8280" },		// Astra
+	"21":	{ "ReservedBy":	"Hiroki02#8280" },			// Astra
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
-	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
+	"23":	{ "ReservedBy":	"raf#4911" }, 				// Geometry Dash Icon
 	"24":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Barry Steakfries
-	"25":	{ "ReservedBy": "raf#4911" }, 			// Peashooter
-	"26":	{ "ReservedBy":	"JSevion#7178" },		// Espio
-	"27":	{ "ReservedBy":	"JSevion#7178" },		// ???
-	"28":	{ "ReservedBy":	"JSevion#7178" },		// ???
-	"29":	{ "ReservedBy": "benkoopa" },			// Reyn	
 
-	"30":	{ "ReservedBy":	"Telejaba#2162" },		// Ultimate metal
-        "31":	{ "ReservedBy":	"Telejaba#2162" },		// Bunfriend
-	"32":	{ "ReservedBy":	"Telejaba#2162" },		// Chaos the impostorඞ
-	"33":   { "ReservedBy": "king the memer#9543"},         // King The Memer 
-	"34":   { "ReservedBy": "king the memer#9543"},         // King The Memer (decomp)
-	"35":   { "ReservedBy": "king the memer#9543"},         // King The Memer (air)
-	"36":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Smoke The Cat
-	"37":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },        // Lilly The Wolf
-  	"38":   { "ReservedBy": "Smoke-le-Bloke#1734" },	// Luna the Deer
+
+	"25":	{ "ReservedBy": "raf#4911" }, 				// Peashooter
+	"26":	{ "ReservedBy":	"JSevion#7178" },			// Espio
+	"27":	{ "ReservedBy":	"JSevion#7178" },			// ???
+	"28":	{ "ReservedBy":	"JSevion#7178" },			// ???
+	"29":	{ "ReservedBy": "benkoopa" },				// Reyn	
+
+	"33":	{ "ReservedBy": "king the memer#9543"},		// King The Memer 
+	"34":	{ "ReservedBy": "king the memer#9543"},		// King The Memer (decomp)
+	"35":	{ "ReservedBy": "king the memer#9543"},		// King The Memer (air)
+	"36":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },	// Smoke The Cat
+	"37":	{ "ReservedBy":	"Smoke-le-Bloke#1734" },	// Lilly The Wolf
+	"38":	{ "ReservedBy": "Smoke-le-Bloke#1734" },	// Luna the Deer
+	"39":	{ "ReservedBy": "GuerreroEnd#4024" },		// Origins Amy
  
-	"41":	{ "ReservedBy":	"benkoopa" },			// El Macho
+	"41":	{ "ReservedBy":	"benkoopa" },				// El Macho
 	"42":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Meat Boy
 	
-        "44":	{ "ReservedBy":	"SAMPL#1873" },			// Alice the long-eared hedgehog 
+	"44":	{ "ReservedBy":	"SAMPL#1873" },				// Alice the long-eared hedgehog 
 	
-
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
-	"47":	{ "ReservedBy": "Telejaba#2162" },		// :Fefe:
-	"48":	{ "ReservedBy":	"GuerreroEnd#4024" },        	// Zack The Cat
+	"47":	{ "ReservedBy": "Telejaba#2162" },			// :Fefe:
+	"48":	{ "ReservedBy":	"GuerreroEnd#4024" },		// Zack The Cat
 
-	"52":   { "ReservedBy": "Chopp#6467" },			// Aurora the Porcupine
+	"52":	{ "ReservedBy": "Chopp#6467" },				// Aurora the Porcupine
 
-	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
-	"57":	{ "ReservedBy": "benkoopa" },			// Cooper
+	"56":	{ "ReservedBy":	"SAMPL#1873" },				// Cuphead
+	"57":	{ "ReservedBy": "benkoopa" },				// Cooper
 	
-	"63":   { "ReservedBy": "mrmrchris#8979" },  		// Albert
+	"63":	{ "ReservedBy": "mrmrchris#8979" },			// Albert
 
-        "64":	{ "ReservedBy":	"montydoesgames" },          	// Monty
+	"64":	{ "ReservedBy":	"montydoesgames" },			// Monty
 
-	"66":   { "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
+	"66":	{ "ReservedBy": "Zama#2873" }, 				// Blaze the Cat 
+
+	"67":	{ "ReservedBy": "soincdeglitcher" }, 		// Woodified Sonic
 	
-	"73":	{ "ReservedBy":	"blu32x" },			// The Noise
+	"73":	{ "ReservedBy":	"blu32x" },					// The Noise
 	
 	
 	
@@ -115,66 +133,66 @@
 	"82":	{ "ReservedBy": "skidwithag#4249" },		// Shift
 	"83":	{ "ReservedBy": "skidwithag#4249" },		// Gear
 	
-	"85":   { "ReservedBy": "plushnoob#3444" },		// smw Mario
-  "86":   { "ReservedBy": "plushnoob#3444" },		// Sally acorn
-	"87":  { "ReservedBy": "BlastProcess#9574"},		// Link the Hero
+	"85":	{ "ReservedBy": "plushnoob#3444" },		// smw Mario
+	"86":	{ "ReservedBy": "plushnoob#3444" },		// Sally acorn
+	"87":	{ "ReservedBy": "BlastProcess#9574"},		// Link the Hero
 	
-  "88":   { "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
-	"89":   { "ReservedBy": "mushrunt" },               // S3K styled Mario
+	"88":	{ "ReservedBy": "CyanideJam#4267" },		// [CHARACTER]
+	"89":	{ "ReservedBy": "mushrunt" },							// S3K styled Mario
 	
-	"91":   { "ReservedBy": "plushnoob#3444" },             // master system sonic
 	"92": 	{ "ReservedBy": "Davil#6098"}, 			// Pana der hejhog
 	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
 	"95":	{ "ReservedBy":	"FruityStar#4494" },		// Bandana Waddle Dee
-        
-	"99":	{ "ReservedBy":	"Jester Sam#0809" },	        // C.H.C. Jester
-  
+				
+	"99":	{ "ReservedBy":	"Jester Sam#0809" },					// C.H.C. Jester
+	
 	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
 	
-	"105" : { "ReservedBy": "BlueHotMess" },            	// ES Template
-	"106":  { "ReservedBy": "BlueHotMess"},            	// ES Template
-	"107":  { "ReservedBy": "BlueHotMess"},            	// ES Template
-	"108":  { "ReservedBy": "BlueHotMess"},            	// ES Template
-  
-  "109":	{ "ReservedBy":	"Terios 3&K#4509" },            //Terios the tenrec
-  "122":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Knuckles	
-	"123":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Tails
-	"124":	{ "ReservedBy":	"BlastProcess#9574" },	        // Pocket Adventure Sonic
+	"105":	{ "ReservedBy": "BlueHotMess" },							// ES Template
+	"106":	{ "ReservedBy": "BlueHotMess"},							// ES Template
+	"107":	{ "ReservedBy": "BlueHotMess"},							// ES Template
+	"108":	{ "ReservedBy": "BlueHotMess"},							// ES Template
 	
-	"125":  { "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
-	"126":  { "ReservedBy": "Danic305#8812" },		//Silver the Hedgehog
+	"109":	{ "ReservedBy":	"Terios 3&K#4509" },						//Terios the tenrec
+	"122":	{ "ReservedBy":	"BlastProcess#9574" },					// Pocket Adventure Knuckles	
+	"123":	{ "ReservedBy":	"BlastProcess#9574" },					// Pocket Adventure Tails
+	"124":	{ "ReservedBy":	"BlastProcess#9574" },					// Pocket Adventure Sonic
+	
+	"125":	{ "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
+	"126":	{ "ReservedBy": "Danic305#8812" },		//Silver the Hedgehog
 
-	"142":  { "ReservedBy": "Origins7#8772" },		// TBD
+	"142":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	"143":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	
 	"144":	{ "ReservedBy": "Origins7#8772" },		// TBD
 
 	"155":	{ "ReservedBy": "KatieStarlight#7295" },	// Roxy the Purple Retriever
-  "156":	{ "ReservedBy":	"Davil#6098" },           //Davil The Android
-	"157":  { "ReservedBy": "BlastProcess#9574"},	// TBR
-  
-  "163" : { "ReservedBy" : "BlueHotMess" },              // Mecha Sonic MK.II
-	"164":   { "ReservedBy": "BlueHotMess"},             // Mecha Knuckles
-	"165":   { "ReservedBy": "BlueHotMess"},             // Rayman
-  "166":   { "ReservedBy": "BlueHotMess"},             // Megamix Shadow
 
-
+	"156":	{ "ReservedBy":	"Davil#6098" },					//Davil The Android
+	"157":	{ "ReservedBy": "BlastProcess#9574"},	// TBR
+	
+	"163" : { "ReservedBy" : "BlueHotMess" },							// Mecha Sonic MK.II
+	"164":	{ "ReservedBy": "BlueHotMess"},						// Mecha Knuckles
+	"165":	{ "ReservedBy": "BlueHotMess"},						// Rayman
+	"166":	{ "ReservedBy": "BlueHotMess"},						// Megamix Shadow
 	
 	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
 	
 	"214":	{ "ReservedBy":	"SlixTren" },			//Snick
 	
-	"232":	{ "ReservedBy":	"SonicFan#4324" }, 	        // Yang
+	"232":	{ "ReservedBy":	"SonicFan#4324" }, 					// Yang
 
-	"240":  { "ReservedBy": "Shaded#0834" },                // Quote
+	"240":	{ "ReservedBy": "SHADED/Finality" },						// Quote
 
-	"241":  { "ReservedBy": "Shaded#0834" },                // Curly
+	"241":	{ "ReservedBy": "SHADED/Finality" },						// Curly
 
-	"242":  { "ReservedBy": "Shaded#0834" },                // Megamix Sonic
+	"242":	{ "ReservedBy": "SHADED/Finality" },						// Megamix Sonic
 
-	"243":  { "ReservedBy": "Shaded#0834" },                // Adventure Sonic
+	"243":	{ "ReservedBy": "SHADED/Finality" },						// Adventure Sonic
 
-	"244":  { "ReservedBy": "Shaded#0834" }                 // Misery
+	"244":	{ "ReservedBy": "SHADED/Finality" },						// Misery
+
+	"245":	{ "ReservedBy": "SHADED/Finality" },						// Aki/Akito
 	
 	"255":	{ "ReservedBy": "TimerBunneh" }			// Sage (ES Port)
 	
