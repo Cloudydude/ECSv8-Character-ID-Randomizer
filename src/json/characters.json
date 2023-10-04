@@ -114,7 +114,7 @@
 	
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 
-	"47":	{ "ReservedBy": "Telejaba#2162" },		// :Fefe:
+	"47":	{ "ReservedBy": "Telejaba" },		// :Fefe:
 	"48":	{ "ReservedBy":	"GuerreroEnd#4024" },        	// Zack The Cat
 	"50":   { "ReservedBy": "BlueHotMess"},            	 // Rayman
 	"52":   { "ReservedBy": "Chopp#6467" },			// Aurora the Porcupine
@@ -131,8 +131,6 @@
 	"67":	{ "ReservedBy": "soincdeglitcher" }, 		// Woodified Sonic
 	
 	"73":	{ "ReservedBy":	"blu32x" },			// The Noise
-	
-	
 	
 	"77":	{ "ReservedBy":	"Parliament#8647" },		// TBD
 	
@@ -184,6 +182,8 @@
 	"164":	{ "ReservedBy": "BlueHotMess"},			// Mecha Knuckles
 	"165":	{ "ReservedBy": "BlueHotMess"},			// Rayman
 	"166":	{ "ReservedBy": "BlueHotMess"},			// Megamix Shadow
+
+	"189":	{ "ReservedBy": "Telejaba"},			// ES Telejaba
 	
 	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
 	
