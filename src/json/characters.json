@@ -85,8 +85,6 @@
 	"20":	{ "ReservedBy":	"jc_thatone" },			// Extra Life
 	"21":	{ "ReservedBy": "michael7mouse" },		// Rouge
 
-//	"21":	{ "ReservedBy":	"Hiroki02#8280" },		// Astra
-
 	"22":	{ "ReservedBy":	"CartoonAnimate22" },		// CA22 Sonic
 	"23":	{ "ReservedBy":	"raf#4911" }, 			// Geometry Dash Icon
 	"24":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Barry Steakfries
@@ -186,10 +184,10 @@
 	"165":	{ "ReservedBy": "BlueHotMess"},			// Rayman
 	"166":	{ "ReservedBy": "BlueHotMess"},			// Megamix Shadow
   
-  "189":	{ "ReservedBy": "Telejaba"},			// ES Telejaba
+  	"189":	{ "ReservedBy": "Telejaba"},			// ES Telejaba
 
-  "192":	{ "ReservedBy":	"just_luhke_th" },		// Montydoesgames' Kirby
-	"201"   { "Reserved"  : "Sonic-Blue-Speed" }           //Tangle the lemur
+ 	"192":	{ "ReservedBy":	"just_luhke_th" },		// Montydoesgames' Kirby
+	"201"   { "Reserved"  : "Sonic-Blue-Speed" },           //Tangle the lemur
 	"207":	{ "ReservedBy":	"cgk#0642" },			//buster bunny
 	
 	"214":	{ "ReservedBy":	"SlixTren" },			//Snick
