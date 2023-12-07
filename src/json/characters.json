@@ -108,16 +108,16 @@
 	"41":	{ "ReservedBy":	"benkoopa" },			// El Macho
 
 	"42":	{ "ReservedBy":	"Stumpedlogs#0001" },		// Meat Boy
-	
-	"44":	{ "ReservedBy":	"SAMPL#1873" },			// Alice the long-eared hedgehog 
-	
+	"43":	{ "ReservedBy":	"SAWMPL" },			// [CHARACTER]
+	"44":	{ "ReservedBy":	"SAWMPL" },			// Alice the long-eared hedgehog 
+	"45":	{ "ReservedBy":	"SAWMPL" },			// [CHARACTER]
 	"46":	{ "ReservedBy": "beesouls🆖#3712" },		// Kitsunami 
 
 	"48":	{ "ReservedBy":	"GuerreroEnd#4024" },        	// Zack The Cat
 	"50":   { "ReservedBy": "BlueHotMess"},            	 // Rayman
 	"52":   { "ReservedBy": "Chopp#6467" },			// Aurora the Porcupine
 
-	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
+	"56":	{ "ReservedBy":	"SAWMPL" },			// Cuphead
 	"57":	{ "ReservedBy": "benkoopa" },			// Cooper
 	
 	"63":	{ "ReservedBy": "mrmrchris#8979" },		// Albert
@@ -149,9 +149,7 @@
 
         "97":   { "ReservedBy": "FireNight097" },               // Neolix
 				
-	"99":	{ "ReservedBy":	"Jester Sam#0809" },		// C.H.C. Jester
-	
-	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
+	"99":	{ "ReservedBy":	"Jester Sam#0809" },		// C.H.C. Jester 
 	
 	"105":	{ "ReservedBy": "BlueHotMess" },		// ES Template
 	"106":	{ "ReservedBy": "BlueHotMess"},			// ES Template
