@@ -119,7 +119,11 @@
 
 	"56":	{ "ReservedBy":	"SAMPL#1873" },			// Cuphead
 	"57":	{ "ReservedBy": "benkoopa" },			// Cooper
-	
+
+        "60":	{ "ReservedBy":	"Useott" },                     // Chao
+        "61":	{ "ReservedBy":	"Useott" },                     // Hero Chao
+        "62":	{ "ReservedBy":	"Useott" },                     // Dark chao
+        
 	"63":	{ "ReservedBy": "mrmrchris#8979" },		// Albert
 
 	"64":	{ "ReservedBy":	"montydoesgames" },		// Monty
