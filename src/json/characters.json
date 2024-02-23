@@ -44,12 +44,6 @@
 		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
 		"ModVersion":	"v1.0.0"
 	},
-
-	/* --- Extra Slot Kim Possible --- */
-	"130": 	{
- 		"Name":		"Extra Slot Kim Possible",
- 		"Author":	"Speems, A2M, Disney, ETC.",
-	},
 	
 	/* Extra slot 3D 2D Ashura --- */
 	"168": 	{
