@@ -44,7 +44,7 @@
 		"URL":			"https://sonic3air.boards.net/thread/517/day-patch-extra-slot-life",
 		"ModVersion":	"v1.0.0"
 	},
-
+	
 	/* Extra slot 3D 2D Ashura --- */
 	"168": 	{
 		"Name": "Extra slot 3D in 2D Ashura",
@@ -165,7 +165,7 @@
 	
 	"125":	{ "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
 	"126":	{ "ReservedBy": "Danic305#8812" },		//Silver the Hedgehog
-
+	"130":	{ "ReservedBy": "SpeemsGames" },		// Kim Possible
 	"142":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	"143":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	
