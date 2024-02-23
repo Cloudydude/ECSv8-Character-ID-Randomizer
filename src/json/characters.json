@@ -45,6 +45,12 @@
 		"ModVersion":	"v1.0.0"
 	},
 
+	/* --- Extra Slot Kim Possible --- */
+	"130": 	{
+ 		"Name":		"Extra Slot Kim Possible",		// Character Name
+ 		"Author":	"Speems, A2M, Disney, ETC.",		// Characted Author
+	},
+	
 	/* Extra slot 3D 2D Ashura --- */
 	"168": 	{
 		"Name": "Extra slot 3D in 2D Ashura",
@@ -165,7 +171,7 @@
 	
 	"125":	{ "ReservedBy": "TheLastKitchenGun" },		//Pizzelle
 	"126":	{ "ReservedBy": "Danic305#8812" },		//Silver the Hedgehog
-
+	"130":	{ "ReservedBy": "SpeemsGames" },		// Kim Possible
 	"142":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	"143":	{ "ReservedBy": "Origins7#8772" },		// TBD
 	
